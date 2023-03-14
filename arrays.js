@@ -34,7 +34,7 @@ function findDuplicates(arr){
 
     //quiz5; search for the following word in array
     let arr5 = ["the","way","x",4];
-    let value = "foi";
+    let value = "we";
     if(arr5.includes(value)){
         console.log(value );
 
